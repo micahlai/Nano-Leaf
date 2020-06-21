@@ -4,8 +4,6 @@
 //https://youtube.com/channel/UCs2Sz1gPlWAdET5qcLcZCJw
 //https://github.com/Anonymous-Shrimp
 
-
-#include <ColorConverter.h>
 #include <FastLED.h>
 
 #define LED_PIN     7
